@@ -1,0 +1,12 @@
+.navbar-top{
+    background:linear-gradient(130deg,rgb(77, 107, 119),rgb(143, 143, 180));
+}
+.container .titulo,.items{
+    display: flex;
+    text-decoration: none;
+    align-items: center;
+    font-family: 'Roboto';
+    font-weight: bold;
+    font-size: 20px;
+    color: white;
+}
