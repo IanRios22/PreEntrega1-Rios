@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/PreEntrega1-Rios/static/css/main.a0bac46a.css",
+    "main.js": "/PreEntrega1-Rios/static/js/main.e739e186.js",
+    "static/js/787.dcc73137.chunk.js": "/PreEntrega1-Rios/static/js/787.dcc73137.chunk.js",
+    "static/media/cart.svg": "/PreEntrega1-Rios/static/media/cart.1eca7981470b01a9aa54114a79842b6d.svg",
+    "index.html": "/PreEntrega1-Rios/index.html",
+    "main.a0bac46a.css.map": "/PreEntrega1-Rios/static/css/main.a0bac46a.css.map",
+    "main.e739e186.js.map": "/PreEntrega1-Rios/static/js/main.e739e186.js.map",
+    "787.dcc73137.chunk.js.map": "/PreEntrega1-Rios/static/js/787.dcc73137.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0bac46a.css",
+    "static/js/main.e739e186.js"
+  ]
+}
